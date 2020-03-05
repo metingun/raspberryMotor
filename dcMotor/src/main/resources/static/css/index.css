@@ -1,0 +1,13 @@
+#velocitySliderContainer {
+    width: 30%;
+    height: 120px;
+    margin-left: 10%;
+    margin-top: 20px;
+    border: inset;
+    background-color: aquamarine;
+}
+
+#velocitySlider {
+    width: 70%;
+    margin-left: 15%;
+}
